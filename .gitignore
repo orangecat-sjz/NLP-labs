@@ -134,4 +134,6 @@ dmypy.json
 *.db
 *.mindrecord
 *.zip
+*.doc
+
 
